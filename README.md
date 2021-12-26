@@ -1,1 +1,1 @@
-# KPMART-AmazonClone
+# KPMART
